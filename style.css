@@ -87,6 +87,7 @@ body {
 
 .button-pay {
     width: 80%;
+    margin: 0% 10%;
     border-radius: 10px;
     border-style: none;
     height: 3.5em;
@@ -102,14 +103,14 @@ body {
 }
 
 .button-cancel {
-    width: 80%;
+    text-align: center;
     border-style: none;
     background-color: white;
     color: var(--color-desaturated-blue);
     font-weight: 800;
     font-size: 0.72em;
-    margin-top: 5%;
-    margin-bottom: 10%;
+    margin: 5% 10% 10% 10%;
+    width: 80%;
 }
 
 .button-cancel:hover {
