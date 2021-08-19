@@ -86,7 +86,6 @@ body {
 }
 
 .button-pay {
-    display:block;
     width: 80%;
     border-radius: 10px;
     border-style: none;
@@ -103,7 +102,7 @@ body {
 }
 
 .button-cancel {
-    display: block;
+    width: 80%;
     border-style: none;
     background-color: white;
     color: var(--color-desaturated-blue);
